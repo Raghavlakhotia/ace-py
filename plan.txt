@@ -1,0 +1,24 @@
+Quant analyst / Quant developer / Senior python developer
+--------------------------------------------------------
+
+- Core Python
+- OOPS
+- DSA Python
+
+- Maths and Statistics in python
+- Probablity in python
+
+- Multi-Process Architecture MVT (Model View Template) and MVC (Model View Controller) - Django
+- Python Event-Driven programming
+- Knowledge of User Authorization and Authentication
+- Database Schemas Creation Ability
+- Debugger and Unit Test Skills + Hypothesis testing.
+- Machine Learning    
+- Python coding conventions
+
+- System design
+- Design patterns
+- Github 
+- VS code
+- UML
+

@@ -1,0 +1,59 @@
+git --help
+git --version
+
+# Flow
+Untracked ----> Modified ----> Statged ----> Commited
+
+# Set
+git config --global user.name Raghav
+git config --global user.email lakhotia.raghav07@gmail.com
+
+# Get
+git config --global user.name
+git config --global user.email
+
+# Initilize git
+git init (can see with ls -la)
+
+# Add
+git add <filename>
+git add -A
+
+# Commit
+git commit -m "One line commmit message"
+git commit
+
+# Status
+git status
+git status -s
+
+# Checkout: Match file with Last commit
+git checkout <filename>
+git checkout -f (All files matched with last commit)
+
+# Log
+git log 
+git log --oneline
+git log -2
+
+# Diff (Current working dir to last commit snapshot)
+git diff 
+git diff --statged (To check diff, if files are staged)
+
+
+# Rm
+git rm <filename> (Remove file from both staging and local)
+git rm --cached <filename> (Remove file from stage and bring to untracked)
+
+
+# Gitignore
+touch .Gitignore
+
+# Patch 
+git diff <filename> > abc.patch
+git apply abc.patch
+
+# Revert (Revert a single commit )
+git revert <xxxxxx>
+
+# Reset (Revert all commit ahead)

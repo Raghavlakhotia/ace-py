@@ -1,0 +1,9 @@
+Concepts-
+--------------------
+Class: A class contains the blueprints or the prototype from which the objects are being created. 
+
+Objects: 
+Polymorphism
+Encapsulation
+Inheritance
+Data Abstraction
