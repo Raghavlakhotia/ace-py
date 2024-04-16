@@ -1,0 +1,6 @@
+The job of the load balancer is to fairly divide all client requests among the pool of available servers. Load balancers perform this job to avoid overloading or crashing servers.
+However, for increasing client requests, load balancers provide the following capabilities:
+
+Scalability: By adding servers, the capacity of the application/service can be increased seamlessly. 
+Availability: Even if some servers go down or suffer a fault, the system still remains available. 
+Performance: Load balancers can forward requests to servers with a lesser load so the user can get a quicker response time. 
